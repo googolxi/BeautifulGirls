@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import "HomePageViewController.h"
 @interface AppDelegate ()
 
 @end
@@ -17,6 +17,15 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    self.window.backgroundColor = [UIColor whiteColor];
+    HomePageViewController *homePage = [[HomePageViewController alloc] init];
+    UINavigationController *homePageNav = [[UINavigationController alloc] initWithRootViewController:homePage];
+    //maybe add choice ios deviece way in it
+    [[UINavigationBar appearance] setBarTintColor:[UIColor colorWithRed:0.975 green:0.534 blue:0.544 alpha:1.000]];
+    [[UINavigationBar appearance] setTranslucent:NO];
+    self.window.rootViewController = homePageNav;
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
