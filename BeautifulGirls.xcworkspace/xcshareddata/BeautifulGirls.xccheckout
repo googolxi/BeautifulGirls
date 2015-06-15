@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0069A193-77BC-46E4-BE92-F6CB6BEC1988</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BeautifulGirls</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B33B0E8E2452E77CC79736292643F467834E6AA4</key>
+		<string>https://github.com/googolxi/BeautifulGirls.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BeautifulGirls.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B33B0E8E2452E77CC79736292643F467834E6AA4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/googolxi/BeautifulGirls.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B33B0E8E2452E77CC79736292643F467834E6AA4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B33B0E8E2452E77CC79736292643F467834E6AA4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BeautifulGirls</string>
+		</dict>
+	</array>
+</dict>
+</plist>
